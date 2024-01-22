@@ -37,7 +37,10 @@ justify-content: center;
 
 button{
   background-color: antiquewhite;
-  display: inline-block;
+  margin: 0;
+  
+
+
 }
 
 
