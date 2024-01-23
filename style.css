@@ -8,7 +8,7 @@ header {
 
 }
 
-.hello{
+.hello1{
   display: flex;
   justify-content: center;
 }
@@ -37,9 +37,11 @@ justify-content: center;
 
 button{
   background-color: antiquewhite;
-  margin: 0;
-  
 
+}
+
+img{
+  width: 40%;
 
 }
 
